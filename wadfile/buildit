@@ -1,0 +1,2 @@
+#!/bin/sh
+deutex -hexen /usr/src/hexen -make wadinfo.txt ass.wad
